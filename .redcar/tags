@@ -1,9 +1,10 @@
-1320519458
+1320524147
 Application	C:/Sites/rails_projects/sample_app/config/application.rb	  class Application 
 ApplicationController	C:/Sites/rails_projects/sample_app/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	C:/Sites/rails_projects/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
 PagesController	C:/Sites/rails_projects/sample_app/app/controllers/pages_controller.rb	class PagesController 
 PagesHelper	C:/Sites/rails_projects/sample_app/app/helpers/pages_helper.rb	module PagesHelper
 SampleApp	C:/Sites/rails_projects/sample_app/config/application.rb	module SampleApp
+about	C:/Sites/rails_projects/sample_app/app/controllers/pages_controller.rb	  def about
 contact	C:/Sites/rails_projects/sample_app/app/controllers/pages_controller.rb	  def contact
 home	C:/Sites/rails_projects/sample_app/app/controllers/pages_controller.rb	  def home
